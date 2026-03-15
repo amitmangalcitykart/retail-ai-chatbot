@@ -14,10 +14,10 @@ Table: MARGIN
 Column Mapping:
 "c1" = SITECODE
 "c2" = STORE_NAME
-"c3" = REGION
-"c4" = DEPARTMENT
+"c5" = REGION
+"c9" = DEPARTMENT
 "c6" = BILL_DATE
-"c16" = BILLQTY
+"c20" = BILLQTY
 "c21" = NETAMT
 "c22" = COSTAMOUNT
 
